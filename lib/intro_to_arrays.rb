@@ -19,5 +19,5 @@ def last_element(array)
 end
 
 def first_element(array)
-  array.unshift()
+  array.shift()
 end
