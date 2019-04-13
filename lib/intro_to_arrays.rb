@@ -18,6 +18,6 @@ def last_element(array)
   array[-1]
 end
 
-def first_element(array)
-  array.shift()
-end
+# def first_element(array)
+
+# end
